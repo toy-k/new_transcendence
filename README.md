@@ -26,8 +26,6 @@
 
 ## 🙂API / DB
 [API 문서와 DB 설계 구조](https://secret-jackal-406.notion.site/backend-API-DB-7cde6bb436ff4398807157fbbc1e079c)
-## 🙂API / DB
-[API 문서와 DB 설계 구조](https://secret-jackal-406.notion.site/backend-API-DB-7cde6bb436ff4398807157fbbc1e079c)
 
 
 ## 💡 구현 중점 사항
